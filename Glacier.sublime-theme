@@ -141,6 +141,7 @@
     {
         "class": "tab_label",
         "fade": true,
+        "font.size": 16,
         "fg": [101,115,127],
         "shadow_color": [25,25,25],
         "shadow_offset": [1, 1]
@@ -342,6 +343,7 @@
     // General labels
     {
         "class": "label_control",
+        "font.size": 16,
         "color": [79,91,102]
     },
     // Text field labels
@@ -385,6 +387,7 @@
     // Status bar container
     {
         "class": "status_bar",
+        "font.size": 16,
         "layer0.texture": "",
         "layer0.tint": [0,0,0],
         "layer0.opacity": 1,
@@ -398,6 +401,7 @@
     // Status bar label
     {
         "class": "label_control",
+        "font.size": 16,
         "parents": [{"class": "status_bar"}],
         "color": [100,108,118],
         "shadow_offset": [0,0]
@@ -456,6 +460,7 @@
     // Sidebar entry
     {
         "class": "sidebar_label",
+        "font.size": 16,
         "color": [104,115,130],
         "shadow_color": [0,0,0],
         "shadow_offset": [1,1]
@@ -817,6 +822,7 @@
     },
     {
         "class": "quick_panel_label",
+        "font.size": 16,
         "fg": [255,255,255],
         "match_fg": [94,235,184],
         "selected_fg": [94,235,184],
@@ -824,6 +830,7 @@
     },
     {
         "class": "quick_panel_path_label",
+        "font.size": 16,
         "fg": [255,255,255],
         "match_fg": [94,235,184],
         "selected_fg": [94,235,184],
@@ -831,6 +838,7 @@
     },
     {
         "class": "quick_panel_score_label",
+        "font.size": 16,
         "fg": [255,255,255],
         "selected_fg": [94,235,184]
     },
@@ -868,6 +876,7 @@
     },
     {
         "class": "auto_complete_label",
+        "font.size": 16,
         "fg": [255,255,255],
         "match_fg": [94,235,184],
         "selected_fg": [255,255,255],
